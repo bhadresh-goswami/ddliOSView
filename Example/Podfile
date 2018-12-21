@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ddliOSView_Example' do
+  pod 'ddliOSView', :path => '../'
+
+  target 'ddliOSView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
