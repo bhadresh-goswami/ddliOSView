@@ -28,11 +28,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0FFD61BFE3EC18119D45B76A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		0FFD61BFE3EC18119D45B76A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		1AC23DB8CF9A869C8400F9C5 /* Pods-ddliOSView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ddliOSView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ddliOSView_Example/Pods-ddliOSView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		25F09AE972B4A525E73B5993 /* Pods_ddliOSView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ddliOSView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2851AEDE08F211D924611C85 /* Pods-ddliOSView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ddliOSView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ddliOSView_Tests/Pods-ddliOSView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		53CA630D07820740CD725AF0 /* ddliOSView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ddliOSView.podspec; path = ../ddliOSView.podspec; sourceTree = "<group>"; };
+		53CA630D07820740CD725AF0 /* ddliOSView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ddliOSView.podspec; path = ../ddliOSView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* ddliOSView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ddliOSView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		679E28856002D2028B80D07E /* Pods_ddliOSView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ddliOSView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A04CB3A279F10DD4155E27D /* Pods-ddliOSView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ddliOSView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ddliOSView_Example/Pods-ddliOSView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9B498643B56D543C1660B636 /* Pods-ddliOSView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ddliOSView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ddliOSView_Tests/Pods-ddliOSView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		CDE2C187E28A4B6D80DB424A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		CDE2C187E28A4B6D80DB424A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
