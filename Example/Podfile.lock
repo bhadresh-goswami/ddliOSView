@@ -1,0 +1,16 @@
+PODS:
+  - ddliOSView (0.1.0)
+
+DEPENDENCIES:
+  - ddliOSView (from `../`)
+
+EXTERNAL SOURCES:
+  ddliOSView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ddliOSView: a19c4605734582d5d280f2714d2d5a01f1933724
+
+PODFILE CHECKSUM: 4597332334452c3cd05d6ec03e6491e5704e23ce
+
+COCOAPODS: 1.5.0
